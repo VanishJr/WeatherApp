@@ -4,4 +4,4 @@ _______________________________________________________
 to see the code -> go to the branch named "gh-pages"
 
 #Screenshot of Project
-(/WeatherApp/img/project_screenshot.png)
+[screenshot of project](/WeatherApp/img/project_screenshot.png)
