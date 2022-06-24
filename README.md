@@ -1,5 +1,6 @@
 # WeatherApp
 Mini project which was made by using API technologies, was written by HTML, CSS, JavaScript
+
 to see the code -> go to the branch named "gh-pages"
 _______________________________________________________
 
